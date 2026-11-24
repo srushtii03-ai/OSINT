@@ -1,0 +1,2 @@
+- [x] Remove visible Lovable branding and tags
+- [x] Create and inspect a clean source ZIP
